@@ -15,15 +15,13 @@
 [FLICKR_8K](https://forms.illinois.edu/sec/1713398).
 This dataset includes around 1500 images along with 5 different captions written by different people for each image. The images are all contained together while caption text file has captions along with the image number appended to it. The zip file is approximately over 1 GB in size.
 
-![](images/dataset.PNG?raw=true)
+![image](https://user-images.githubusercontent.com/100507234/235935000-79099ffe-9dee-45be-acfa-9a08f63c97d8.png)
 <br>
 
 ## Flow of the project
-#### a. Cleaning the caption data
+#### a. Cleaning captions
 #### b. Extracting features from images using VGG-16
-#### c. Merging the captions and images
-#### d. Building LSTM model for training
-#### e. Predicting on test data
-#### f. Evaluating the captions using BLEU scores as the metric
+#### c. Building LSTM model
+#### d. Inferencing on test data
 
 <br>
